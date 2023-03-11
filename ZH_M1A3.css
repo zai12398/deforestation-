@@ -1,0 +1,11 @@
+body {
+    background-color: azure;
+    color:blue;
+    font-family: "Arial", serif; 
+    width: 900px; 
+    margin-left: auto; 
+    margin-right: auto;}
+h1 {text-align: center;}
+h3{text-align: center;}
+footer {border: 4px solid
+    blue;}
